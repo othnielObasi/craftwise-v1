@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>CraftWise README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    h1, h2, h3 {
-      margin-top: 1.2em;
-      margin-bottom: 0.5em;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    li {
-      margin-bottom: 0.5em;
-    }
-  </style>
-</head>
-<body>
 
   <h1>CraftWise</h1>
 
