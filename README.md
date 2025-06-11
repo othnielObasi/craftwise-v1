@@ -76,7 +76,7 @@
   <ol>
     <li>
       <p><strong>Clone this repository</strong></p>
-      <pre><code>git clone https://github.com/your-username/craftwise.git
+      <pre><code>git clone https://github.com/othnielObasi/craftwise.git
 cd craftwise</code></pre>
     </li>
     <li>
